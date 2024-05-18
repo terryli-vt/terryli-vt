@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Terry Li
+
+- I've been learning and building web applications for ~ 3 years
+- My goal is to build software that helps people work or live better 
+- I enjoy gaining software programming experience.
+- Skills: Web Design, Front-End Web Development (HTML, CSS, JavaScript, React, Vue.js), Back-End Web Development (Node.js, Express, MongoDB)
 
 <!--
 **terryli-vt/terryli-vt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
