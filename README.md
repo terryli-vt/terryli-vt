@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Terry Li
 
-- I've been learning and building web applications for ~ 3 years
+- I've been learning and doing web dev for ~ 3 years
 - My goal is to build software that helps people work or live better 
-- I enjoy gaining software programming experience.
+- I enjoy gaining software programming experience
 - Skills: Web Design, Front-End Web Development (HTML, CSS, JavaScript, React, Vue.js), Back-End Web Development (Node.js, Express, MongoDB)
 
 <!--
