@@ -1,9 +1,21 @@
-### Hi there 👋 I'm Terry Li
+# Hi, I'm Terry 👋
 
-- I've been learning and doing web dev for ~ 3 years
-- My goal is to build software that helps people work or live better 
-- I enjoy gaining software programming experience
-- Skills: Web Design, Front-End Web Development (HTML, CSS, JavaScript, React, Vue.js), Back-End Web Development (Node.js, Express, MongoDB)
+Full-stack software engineer based in Michigan. CS grad from Virginia Tech.
+
+I build web products — from internal tools to consumer-facing apps. I care about how software *feels*: the performance, the transitions, the small details that make something genuinely pleasant to use.
+
+Currently building personal projects and exploring AI tooling and system design.
+
+---
+
+**Links**
+
+- 🌐 [Portfolio](https://terryli-vt.github.io/index.html)
+- 📝 [Blog](https://terryli-vt.github.io/pages/blog.html)
+
+---
+
+*Outside of code: tennis, hiking, piano, and a good cup of coffee.*
 
 <!--
 **terryli-vt/terryli-vt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
